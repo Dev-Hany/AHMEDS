@@ -722,7 +722,7 @@ async def iq(event):
 اضافه امر اضهار جميع الحاضرهم : 
 ( .الحاظرهم  )
 ———————⁂———————
-- @iqthon""")
+- @D2_RK""")
 
 @iqthon.on(admin_cmd(pattern="اوامر الصيد(?: |$)(.*)"))    
 async def iq(event):
